@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Jupiter734
-- 👀 I’m interested in Data science
+- 👀 I’m interested in data science and health science
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me ...
+- 📫 How to reach me email me at jupiter734@proton.me for any private discussions
 
 <!---
 Jupiter734/Jupiter734 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
